@@ -1,3 +1,6 @@
 [submodule "SecLists/autoload"]
 	path = SecLists/autoload
 	url = https://github.com/danielmiessler/SecLists
+[submodule "big-list-of-naughty-strings/autoload"]
+	path = big-list-of-naughty-strings/autoload
+	url = https://github.com/minimaxir/big-list-of-naughty-strings
