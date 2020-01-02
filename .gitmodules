@@ -1,6 +1,6 @@
 [submodule "SecLists"]
 	path = SecLists
-	url = https://github.com/danielmiessler/SecLists
+	url = https://github.com/danielmiessler/SecLists/tree/master
 [submodule "big-list-of-naughty-strings"]
 	path = big-list-of-naughty-strings
-	url = https://github.com/minimaxir/big-list-of-naughty-strings
+	url = https://github.com/minimaxir/big-list-of-naughty-strings/tree/master
