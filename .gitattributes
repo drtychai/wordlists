@@ -1,0 +1,2 @@
+# Archives
+*.tar.xz filter=lfs diff=lfs merge=lfs -text
